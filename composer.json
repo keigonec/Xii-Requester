@@ -1,0 +1,22 @@
+{
+    "name": "Xii/Requester",
+    "description": "Requester based on guzzleHttp and Yii2.x",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "EricXie",
+            "email": "Mr.EricXie@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "yiisoft/yii2": ">=2.0.4",
+        "guzzlehttp/guzzle": ">=6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Xii\\Requester\\": "src/"
+        }
+    }
+}
