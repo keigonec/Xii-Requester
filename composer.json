@@ -1,5 +1,5 @@
 {
-    "name": "Xii/Requester",
+    "name": "xii/requester",
     "description": "Requester based on guzzleHttp and Yii2.x",
     "type": "library",
     "license": "MIT",
